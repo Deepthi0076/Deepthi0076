@@ -6,7 +6,7 @@
 
 Objective:
 
-Highly motivated and detail-oriented upcoming data analyst with 1 year of experience seeking a challenging position . 
+Highly motivated and detail-oriented upcoming data analyst with 1 year of experience seeking a challenging position
 I am Skilled in analyzing  complex datasets, interpreting trends, and providing actionable insights to drive informed business decisions. 
 Committed to leveraging data-driven strategies to optimize performance and enhance organizational efficiency.
 
