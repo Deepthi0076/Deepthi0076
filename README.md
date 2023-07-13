@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Deepthi Reddy Chada
-- 👀 I’m interested in Data Analytics,Data Engineering,Business Analyst Roles.
+- 👀 I’m interested in Data Analytics,Data Engineering,Business Analyst,Associate Software Engineer Roles.
 - 🌱 I’m currently pursuing my Masters in Management Information Systems From the University of memphis in Memphis,Tennessee.
 - 💞️ I’m looking to collaborate on cross-functional teams to define project objectives, gather requirements, and deliver data-driven solutions.
 - 📫 You can reach me via dchada@memphis.edu
